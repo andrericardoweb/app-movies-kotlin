@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Primary -->
+    <color name="primary_50">#FFe4f5fb</color>
+    <color name="primary_100">#FFbae6f6</color>
+    <color name="primary_200">#FF90d5ef</color>
+    <color name="primary_300">#FF6fc4e8</color>
+    <color name="primary_400">#FF5db8e3</color>
+    <color name="primary_500">#FF53abde</color>
+    <color name="primary_600">#FF4c9dd0</color>
+    <color name="primary_700">#FF448bbc</color>
+    <color name="primary_800">#FF3f7aa8</color>
+    <color name="primary_900">#FF335a85</color>
+
+    <!-- Secondary -->
+    <color name="secondary_50">#FFfbecef</color>
+    <color name="secondary_100">#FFf7cfd6</color>
+    <color name="secondary_200">#FFe49da2</color>
+    <color name="secondary_300">#FFd8787f</color>
+    <color name="secondary_400">#FFe25b62</color>
+    <color name="secondary_500">#FFe74d4d</color>
+    <color name="secondary_600">#FFd8454a</color>
+    <color name="secondary_700">#FFc63c43</color>
+    <color name="secondary_800">#FFb8373c</color>
+    <color name="secondary_900">#FFaa2c31</color>
+
+
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -7,4 +32,19 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="background_dark">#FF111820</color>
+    <color name="background_light">#FFF3F4F8</color>
+
+    <!-- Shades of gray -->
+    <color name="gray_01">#FFE5E5E6</color>
+    <color name="gray_02">#FFC9CCCF</color>
+    <color name="gray_03">#FFACB2B9</color>
+    <color name="gray_04">#FF8D99A5</color>
+    <color name="gray_05">#FF6C8093</color>
+    <color name="gray_06">#FF546678</color>
+    <color name="gray_07">#FF3C4D5D</color>
+    <color name="gray_08">#FF27333F</color>
+    <color name="gray_09">#FF131A20</color>
+    <color name="gray_10">#FF0C1117</color>
 </resources>

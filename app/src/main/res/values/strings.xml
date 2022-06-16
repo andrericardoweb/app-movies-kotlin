@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">App Movies - Kotlin</string>
+    <string name="title_in_theaters">In Theaters</string>
+
 </resources>
