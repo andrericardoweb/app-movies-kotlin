@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">App Filmes - Kotlin</string>
     <string name="title_in_theaters">Nos Cinemas</string>
+    <string name="description_iv_poster">Imagem do cartaz do filme</string>
 </resources>
